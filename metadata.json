@@ -1,0 +1,6 @@
+{
+  "name": "PakHelp AI",
+  "description": "Intelligent Pakistani Citizen Assistant for government services, document AI, utility bill estimation, career guidance, navigation & emergency response.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
